@@ -1,19 +1,15 @@
 # Daily App Engagement using Power Bi
 
-
 ![Designer (1)](https://github.com/user-attachments/assets/35edb7d8-e5dc-4063-bc2d-17530e19c1f6)
-![Designer](https://github.com/user-attachments/assets/58da5bb8-c487-469e-b976-aba4e79703f2)
-
-
 
 # Project Title - Daily App Engagement Analysis
 
-- This Repository presents a Meticulous and Exhaustive Examination of Daily App Engagement Metrics, unveiling a Tapestry of Detailed Insights.
+- This Repository presents a Meticulous and Exhaustive examination of Daily App Engagement Metrics, unveiling a Tapestry of Detailed Insights.
 - By Leveraging this Project, one can Uncover Profound Revelations and make Judicious Decisions with Unparalleled Clarity.
 
 # 📃Description
 
-In this Modern Era, our Daily Existence is Intricately woven🧶 with a myriad of Digital Applications📱💻 that cater to Virtually every Facet of our Lives. From the Omnipresent Realm of Social Media🌐 that fosters Connection and Interaction, to Educational Tools that Enhance Knowledge📚 and Fitness Trackers that Monitor our Well-being🏋️‍♂️, these Applications have become Indispensable. They Serve our needs for Culinary inspiration🍳, Travel planning✈️ and Personal growth, Illustrating an Intense and Pervasive reliance on Digital Innovations that seamlessly Integrate into our Routines.
+In this Modern era, our Daily Existence is Intricately woven🧶 with a myriad of Digital Applications📱💻 that cater to Virtually every Facet of our Lives. From the Omnipresent Realm of Social Media🌐 that fosters Connection and Interaction, to Educational Tools that Enhance Knowledge📚 and Fitness Trackers that Monitor our Well-being🏋️‍♂️, these Applications have become Indispensable. They Serve our needs for Culinary inspiration🍳, Travel planning✈️ and Personal growth, Illustrating an Intense and Pervasive reliance on Digital Innovations that seamlessly Integrate into our Routines.
 
 This Project represents a Refined exploration of my Daily App Engagement over the past Ten Months, encapsulated in a Sleek, Dynamic Dashboard. It Elegantly distills App Usage Patterns, Daily Step Counts and Calorie Expenditures into a Visually Compelling Narrative, with Sophisticated Filters allowing for In-depth Analysis. 📊🔍 
 
@@ -55,15 +51,15 @@ The Dataset is a Excel File, featuring Comprehensive and Meticulously Detailed S
 When we examine the Data, we observe a number of Different Columns.
 
 - Date.
-- Youtube :- Time Spent in Minutes on Youtube on that Particular Day.
-- Snapchat :- Time Spent in Minutes on Snapchat on that Particular Day.
-- Instagam :- Time Spent in Minutes on Instagram on that Particular Day.
-- Whatsapp :- Time Spent in Minutes on Whatsapp on that Particular Day.
-- Google Chrome :- Time Spent in Minutes on Google Chrome on that Particular Day.
-- Music	:- Time Spent in Minutes on Music on that Particular Day.
+- Youtube :- Time Spent in Minutes on Youtube on that Particular Day.⏳
+- Snapchat :- Time Spent in Minutes on Snapchat on that Particular Day.🕒
+- Instagam :- Time Spent in Minutes on Instagram on that Particular Day.⌛
+- Whatsapp :- Time Spent in Minutes on Whatsapp on that Particular Day.🕓
+- Google Chrome :- Time Spent in Minutes on Google Chrome on that Particular Day.⏰
+- Music	:- Time Spent in Minutes on Music on that Particular Day.🕞
 - Total App Usage :- Total Minutes Spent on Mobile on that Particular Day.
-- No of Steps :- Total number of Steps taken on that Particular Day.
-- Burned Calories :- Total Calories Burnt due to the No of Steps walked.
+- No of Steps :- Total number of Steps taken on that Particular Day.👣
+- Burned Calories :- Total Calories Burnt due to the No of Steps walked.🔥
 - Total Usage in Hr :- Total Hours Spent on Mobile on that Particular Day.
 
 
@@ -97,21 +93,21 @@ Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in
 
 Comprehensive Analysis has been conducted on the Dataset, illustrated through a Variety of Engaging Plots📊📈. 
 
-![Dashboard](https://github.com/user-attachments/assets/cc25d84c-c843-45e6-ace7-5b4ab50bb2cd)
+![Dashboard](https://github.com/user-attachments/assets/fe782f6b-7ffb-4336-85a7-bf0c47fcdf32)
 
-Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Date📆 and Month📅. 
+
+Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Date📌 and Month📅. 
 
 This Illustrates the Analysis of Track and Streams of the Month "February".📍
+![Analysis 1](https://github.com/user-attachments/assets/b08c600b-fd99-4414-8596-3447cfbefd9a)
+![Analysis 2](https://github.com/user-attachments/assets/21a7342a-3490-4470-b2f1-f08b95eff9d9)
+![Analysis 3](https://github.com/user-attachments/assets/46563aa6-505c-4ee0-abf2-c35f8515c8b6)
+![Analysis 4](https://github.com/user-attachments/assets/52081013-6239-4120-a3b0-4602edf06633)
+![Analysis 5](https://github.com/user-attachments/assets/1c072dd6-469a-47e4-9c81-2856393320c6)
+![Analysis 6](https://github.com/user-attachments/assets/966a731a-e5c7-49bc-a112-e0a85e938aea)
+![Analysis 7](https://github.com/user-attachments/assets/a58ae2c6-9885-4c71-9c5b-d4bde470b3da)
+![Analysis 8](https://github.com/user-attachments/assets/3dffb872-aded-439d-8934-3c714ba4bd88)
 
-![Analysis 1](https://github.com/user-attachments/assets/750a20db-d11c-44de-93f5-a8da2254d3f7)
-![Analysis 2](https://github.com/user-attachments/assets/c9ca837a-c791-41dc-944b-e7f8426a8954)
-
-![Analysis 3](https://github.com/user-attachments/assets/b009a955-4cfc-4aa6-821b-c1c464eadfa5)
-![Analysis 4](https://github.com/user-attachments/assets/dc35a6f2-a737-43f2-8117-cc620d84ddb9)
-![Analysis 5](https://github.com/user-attachments/assets/13a93e36-f744-46eb-87a1-4355845db4bc)
-![Analysis 6](https://github.com/user-attachments/assets/e98b5530-5b1a-43a5-b2f1-b88482db0d94)
-![Analysis 7](https://github.com/user-attachments/assets/b7f14928-2b0a-4d3d-9375-8a3902e2c36f)
-![Analysis 8](https://github.com/user-attachments/assets/7ed71a97-b68d-440d-9436-316c1a215a5c)
 
 # Author 🙎‍♀️  
 
