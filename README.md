@@ -1,18 +1,23 @@
-# Daily-App-Engagement-using-Power-Bi
-# HR Analytics Dashboard using Power Bi
+# Daily App Engagement using Power Bi
 
-![Designer (1)](https://github.com/user-attachments/assets/9eec790f-e238-4e1c-b8cb-e6522449f88e)
 
-# Project Title - HR Analytics Data Analysis
+![Designer (1)](https://github.com/user-attachments/assets/35edb7d8-e5dc-4063-bc2d-17530e19c1f6)
+![Designer](https://github.com/user-attachments/assets/58da5bb8-c487-469e-b976-aba4e79703f2)
 
-- This Repository offers an Intricate and Comprehensive Analysis of HR Analytics Data.
-- By Harnessing this Project, we can reveal Profound Insights and make Discerning Decisions.
+
+
+# Project Title - Daily App Engagement Analysis
+
+- This Repository presents a Meticulous and Exhaustive Examination of Daily App Engagement Metrics, unveiling a Tapestry of Detailed Insights.
+- By Leveraging this Project, one can Uncover Profound Revelations and make Judicious Decisions with Unparalleled Clarity.
 
 # 📃Description
 
-In Today’s Data-driven World, HR Analytics has Emerged as a Transformative Tool for Optimizing Human Resource Management. By Harnessing the power of Data, HR Professionals can gain Profound Insights into Workforce Dynamics, Uncover Trends and make Strategic Decisions that drive Organizational Success. 
+In this Modern Era, our Daily Existence is Intricately woven🧶 with a myriad of Digital Applications📱💻 that cater to Virtually every Facet of our Lives. From the Omnipresent Realm of Social Media🌐 that fosters Connection and Interaction, to Educational Tools that Enhance Knowledge📚 and Fitness Trackers that Monitor our Well-being🏋️‍♂️, these Applications have become Indispensable. They Serve our needs for Culinary inspiration🍳, Travel planning✈️ and Personal growth, Illustrating an Intense and Pervasive reliance on Digital Innovations that seamlessly Integrate into our Routines.
 
-This Analytical approach not only Enhances Operational Efficiency but also Fosters a more Inclusive and Equitable workplace by Identifying and Addressing key HR Metrics and Issues.
+This Project represents a Refined exploration of my Daily App Engagement over the past Ten Months, encapsulated in a Sleek, Dynamic Dashboard. It Elegantly distills App Usage Patterns, Daily Step Counts and Calorie Expenditures into a Visually Compelling Narrative, with Sophisticated Filters allowing for In-depth Analysis. 📊🔍 
+
+This Initiative not only Illuminates the Intricate Relationship between our Digital Interactions and Daily Activities but also Equips users with the Tools to derive Profound Insights and make Strategic Informed Decisions.
 
 # Table of Content
 
@@ -33,42 +38,48 @@ This Analytical approach not only Enhances Operational Efficiency but also Foste
 
 # 🚀 Project Goal
 
-The Goal of this Project is to Develop a Cutting-Edge HR Analytics Dashboard that Seamlessly integrates Advanced Data Visualizations to provide Actionable Insights into Workforce Metrics, thereby Enabling Strategic Decision-Making and Enhancing Organizational Efficiency.
+The Goal of this Project is to Offer an Illuminating Perspective on Daily App Engagement Patterns, providing Users with a Sophisticated Tool to Analyze and Optimize their Digital Interactions through an Elegant and Interactive Dashboard. 📈
 
 # Project Motivation
 
-Driven by an Unwavering Passion for Data Analytics and a Fervent Commitment to Advancing my Career, I am Motivated by the Opportunity to Leverage my skills to create Impactful Solutions that Drive Meaningful Improvements in HR Management and Contribute to my Professional Growth.
+Inspired by a Boundless Curiosity and a Sharp Analytical Acumen, this Endeavor seeks to Explore and Uncover the Nuances of my Daily Digital Interactions with the Time Allocation and Caloric Expenditure, turning Intricate Data into Meaningful Revelations that satisfy a Deep-Seated Interest in Personal Metrics. 🧠✨
 
 # ⏳ Dataset
 
-The HR Analytics Dataset is a combination of 4 Excel Files, featuring Comprehensive and Meticulously Detailed Sheets.
+The Dataset is a Excel File, featuring Comprehensive and Meticulously Detailed Sheet.
 - Kindly Access and Download the Dataset via the Link provided below
-- Raw Data 1 Link :- [data.csv promomtion.csv](https://github.com/user-attachments/files/16550727/data.csv.promomtion.csv)
-- Raw Data 2 Link :- [data.csv Retrenchment.csv](https://github.com/user-attachments/files/16550728/data.csv.Retrenchment.csv)
-- Raw Data 3 Link :- [HR Analytics Data.csv](https://github.com/user-attachments/files/16550729/HR.Analytics.Data.csv)
-- Raw Data 4 Link :- [HR employee data.csv](https://github.com/user-attachments/files/16550730/HR.employee.data.csv)
+- Raw Data Link :- [Raw Data.xlsx](https://github.com/user-attachments/files/16559292/Raw.Data.xlsx)
   
 ## 📑 Dataset Description
 
 When we examine the Data, we observe a number of Different Columns.
 
+- Date.
+- Youtube :- Time Spent in Minutes on Youtube on that Particular Day.
+- Snapchat :- Time Spent in Minutes on Snapchat on that Particular Day.
+- Instagam :- Time Spent in Minutes on Instagram on that Particular Day.
+- Whatsapp :- Time Spent in Minutes on Whatsapp on that Particular Day.
+- Google Chrome :- Time Spent in Minutes on Google Chrome on that Particular Day.
+- Music	:- Time Spent in Minutes on Music on that Particular Day.
+- Total App Usage :- Total Minutes Spent on Mobile on that Particular Day.
+- No of Steps :- Total number of Steps taken on that Particular Day.
+- Burned Calories :- Total Calories Burnt due to the No of Steps walked.
+- Total Usage in Hr :- Total Hours Spent on Mobile on that Particular Day.
+
+
 # Requirement
 
-- ✅ Total Employees🧑🧔🏻👩👩🏻‍💼
-- ✅ Male Employees 🧑
-- ✅ Female Employees 👩
-- ✅ Percentage of Employees with due for Promotion 💰
-- ✅ Percentage of Employees with No due for Promotion 💰
-- ✅ Active Workers 👨🏻‍💻👩🏻‍💻
-- ✅ Next Retrenchment
-- ✅ Employees with High Ratings ⭐⭐⭐
-- ✅ Employees with Low Ratings ⭐
-- ✅ Employees by Job Levels 👨🏻‍💻
-- ✅ Employees by Service Years
-- ✅ Distance from Office
-- ✅ Due for Promotion and Retrenchment by the Department 🏬
-- ✅ Total Employees with Job Satisfaction
-- ✅ Employees by Over Time
+- ✅ Average time Spent on Whatsapp.🟢
+- ✅ Average time Spent on Snapchat.🟡
+- ✅ Average time Spent on YouTube.🔴
+- ✅ Average time Spent on Google Chrome.🟠
+- ✅ Average time Spent on Music.⚪
+- ✅ Average time Spent on Instagram.🟣
+- ✅ App Usage in Minutes by Month.📅
+- ✅ No of Steps Taken by Month.📅
+- ✅ Total App Usage.⌛
+- ✅ Calories Burnt.🔥
+- ✅ No of Steps.👣 
 
 # ✅ Installation : ETL Tools ✅
 
@@ -81,56 +92,26 @@ Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in
 - Removed Duplicates.
 - Replaced data with meaningful data etc.📝
 - Applied Sorting and Filters📶
-- Created New Measures
 
 # 🚀 My Project
 
-Comprehensive Analysis has been conducted on the Datasets, illustrated through a Variety of Engaging Plots📊📈. I have created 3 Sheets for this Dashboard using Power Bi. 
+Comprehensive Analysis has been conducted on the Dataset, illustrated through a Variety of Engaging Plots📊📈. 
 
-![Dashboard - Copy](https://github.com/user-attachments/assets/8f186ac1-a4d6-4383-bf90-57f80069fd3b)
-![Dashboard](https://github.com/user-attachments/assets/f1074b0a-8868-4b25-b0b2-8f8d0e924934)
+![Dashboard](https://github.com/user-attachments/assets/cc25d84c-c843-45e6-ace7-5b4ab50bb2cd)
 
-This Illustrates the Analysis of Employees with "8 Years" of Service. 📍 
-![Analysis 4](https://github.com/user-attachments/assets/f1a86757-f25a-4782-8b4c-976c47df3f12)
+Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Date📆 and Month📅. 
 
-This Illustrates the Analysis of Employees with "16 Years" of Service. 📍 
-![Analysis 5](https://github.com/user-attachments/assets/85aa6d1f-b661-4489-8e80-d6a8d6234e6d)
+This Illustrates the Analysis of Track and Streams of the Month "February".📍
 
-This Illustrates the Analysis of Employees with "Job Level-1". 📍 
-![Analysis 6](https://github.com/user-attachments/assets/93e4c174-07e8-48fd-bc6d-ba6f46869460)
+![Analysis 1](https://github.com/user-attachments/assets/750a20db-d11c-44de-93f5-a8da2254d3f7)
+![Analysis 2](https://github.com/user-attachments/assets/c9ca837a-c791-41dc-944b-e7f8426a8954)
 
-This Illustrates the Analysis of Employees who stay "Very Close" to the Office. 📍 
-![Analysis 7](https://github.com/user-attachments/assets/d2c6a56a-9a69-4211-a85d-105bfc86d187)
-
-This Illustrates the Analysis of Employees who stay "Very Far" from the Office. 📍 
-![Analysis 8](https://github.com/user-attachments/assets/58f8a3db-7b55-4902-9eea-9f8c9d805e9a)
-
-This Illustrates the Analysis of "Action" Sheet. 📍
-![Analysis 2](https://github.com/user-attachments/assets/81cf1cd9-3c55-44d0-8689-4a34d3932ebb)
-
-This Illustrates the Analysis of "Details" Sheet. 📍
-![Analysis 3](https://github.com/user-attachments/assets/a09c0a44-91e5-457b-afc1-3cab4b20ba99)
-
-This Illustrates the Analysis of Employees with "High" Job Satisfaction. 📍 
-![Analysis 9](https://github.com/user-attachments/assets/c655f749-726d-4370-b6a2-21f0cdf0c35f)
-
-This Illustrates the Analysis of Employees with "Medium" Job Satisfaction. 📍 
-![Analysis 10](https://github.com/user-attachments/assets/51f1fad8-886f-4e92-a868-8e3930ae2f25)
-
-This Illustrates the Analysis of Employees with "No" Over Time. 📍 
-![Analysis 11](https://github.com/user-attachments/assets/3b36f211-391c-4fdb-8985-45e4fbd63d41)
-
-This Illustrates the Analysis of Employees who are "Healthcare Representatives". 📍
-![Analysis 12](https://github.com/user-attachments/assets/ca171416-64c4-4466-b6b4-3fd2fe511d31)
-
-This Illustrates the Analysis of Employees who are "Sales Representatives". 📍
-![Analysis 13](https://github.com/user-attachments/assets/20aeb658-d0d4-40bb-84bf-a21cf2b56f34)
-
-This Illustrates the Analysis of Employees who work in "Sales" Department. 📍
-![Analysis 14](https://github.com/user-attachments/assets/cd397c16-febc-4f63-89bf-42e8d0c3862e)
-
-This Illustrates the Analysis of Employees who work in "Research and Development" Department. 📍
-![Analysis 15](https://github.com/user-attachments/assets/c7bf5fbb-87cb-4fc0-bd4d-e62344bcc6f9)
+![Analysis 3](https://github.com/user-attachments/assets/b009a955-4cfc-4aa6-821b-c1c464eadfa5)
+![Analysis 4](https://github.com/user-attachments/assets/dc35a6f2-a737-43f2-8117-cc620d84ddb9)
+![Analysis 5](https://github.com/user-attachments/assets/13a93e36-f744-46eb-87a1-4355845db4bc)
+![Analysis 6](https://github.com/user-attachments/assets/e98b5530-5b1a-43a5-b2f1-b88482db0d94)
+![Analysis 7](https://github.com/user-attachments/assets/b7f14928-2b0a-4d3d-9375-8a3902e2c36f)
+![Analysis 8](https://github.com/user-attachments/assets/7ed71a97-b68d-440d-9436-316c1a215a5c)
 
 # Author 🙎‍♀️  
 
