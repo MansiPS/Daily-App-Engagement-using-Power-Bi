@@ -62,7 +62,6 @@ When we examine the Data, we observe a number of Different Columns.
 - Burned Calories :- Total Calories Burnt due to the No of Steps walked.🔥
 - Total Usage in Hr :- Total Hours Spent on Mobile on that Particular Day.
 
-
 # Requirement
 
 - ✅ Average time Spent on Whatsapp.🟢
@@ -98,14 +97,28 @@ Comprehensive Analysis has been conducted on the Dataset, illustrated through a 
 
 Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Date📌 and Month📅. 
 
-This Illustrates the Analysis of Track and Streams of the Month "February".📍
+This Illustrates the Analysis of the Months "September", "October", "November", "December" for the Year 2023.📍
 ![Analysis 1](https://github.com/user-attachments/assets/b08c600b-fd99-4414-8596-3447cfbefd9a)
+
+This Illustrates the Analysis of the Months "January", "February", "March", "April", "May", "June" for the Year 2024.📍
 ![Analysis 2](https://github.com/user-attachments/assets/21a7342a-3490-4470-b2f1-f08b95eff9d9)
+
+This Illustrates the Analysis of the "12th Day" of all the Months.📍 
 ![Analysis 3](https://github.com/user-attachments/assets/46563aa6-505c-4ee0-abf2-c35f8515c8b6)
+
+This Illustrates the Analysis of the "19th Day" of all the Months.📍 
 ![Analysis 4](https://github.com/user-attachments/assets/52081013-6239-4120-a3b0-4602edf06633)
+
+This Illustrates the Analysis of the Month "November".📍 
 ![Analysis 5](https://github.com/user-attachments/assets/1c072dd6-469a-47e4-9c81-2856393320c6)
+
+This Illustrates the Analysis of the Month "March".📍
 ![Analysis 6](https://github.com/user-attachments/assets/966a731a-e5c7-49bc-a112-e0a85e938aea)
+
+This Illustrates the Analysis of the Day "February 28th".📍
 ![Analysis 7](https://github.com/user-attachments/assets/a58ae2c6-9885-4c71-9c5b-d4bde470b3da)
+
+This Illustrates the Analysis of the Day "April 6th".📍
 ![Analysis 8](https://github.com/user-attachments/assets/3dffb872-aded-439d-8934-3c714ba4bd88)
 
 
