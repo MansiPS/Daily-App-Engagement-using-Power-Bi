@@ -54,7 +54,7 @@ When we examine the Data, we observe a number of Different Columns.
 - Youtube :- Time Spent in Minutes on Youtube on that Particular Day.⏳
 - Snapchat :- Time Spent in Minutes on Snapchat on that Particular Day.🕒
 - Instagam :- Time Spent in Minutes on Instagram on that Particular Day.⌛
-- Whatsapp :- Time Spent in Minutes on Whatsapp on that Particular Day.🕓
+- WhatsApp :- Time Spent in Minutes on Whatsapp on that Particular Day.🕓
 - Google Chrome :- Time Spent in Minutes on Google Chrome on that Particular Day.⏰
 - Music	:- Time Spent in Minutes on Music on that Particular Day.🕞
 - Total App Usage :- Total Minutes Spent on Mobile on that Particular Day.
@@ -64,7 +64,7 @@ When we examine the Data, we observe a number of Different Columns.
 
 # Requirement
 
-- ✅ Average time Spent on Whatsapp.🟢
+- ✅ Average time Spent on WhatsApp.🟢
 - ✅ Average time Spent on Snapchat.🟡
 - ✅ Average time Spent on YouTube.🔴
 - ✅ Average time Spent on Google Chrome.🟠
